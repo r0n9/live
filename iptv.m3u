@@ -30,93 +30,73 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/inde
 #EXTINF:-1 group-title="央视IPV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png",CCTV15
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/江苏卫视.png",江苏卫视
-https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/湖南卫视.png",湖南卫视
-https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/东方卫视.png",东方卫视
-https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/北京卫视.png",北京卫视
-https://live.goodiptv.club/api/cqyx.php?id=beijingHD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/浙江卫视.png",浙江卫视
-https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/山东卫视.png",山东卫视
-http://58.220.219.14:9901/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/广东卫视.png",广东卫视
-https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/辽宁卫视.png",辽宁卫视
-https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/安徽卫视.png",安徽卫视
-http://58.220.219.14:9901/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/广西卫视.png",广西卫视
 https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/内蒙卫视.png",内蒙卫视
-http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/重庆卫视.png",重庆卫视
-https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/四川卫视.png",四川卫视
-https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/河南卫视.png",河南卫视
-https://live.goodiptv.club/api/cqyx.php?id=henanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/深圳卫视.png",深圳卫视
-https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225801/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/云南卫视.png",云南卫视
-http://58.220.219.14:9901/tsfile/live/0119_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/河北卫视.png",河北卫视
-http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/宁夏卫视.png",宁夏卫视
-http://58.220.219.14:9901/tsfile/live/0112_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/甘肃卫视.png",甘肃卫视
-http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/东南卫视.png",东南卫视
-https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/天津卫视.png",天津卫视
-https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/江西卫视.png",江西卫视
-https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/湖北卫视.png",湖北卫视
-http://58.220.219.14:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/吉林卫视.png",吉林卫视
-https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/黑龙江卫视.png",黑龙江卫视
-https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/山西卫视.png",山西卫视
-http://58.220.219.14:9901/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/贵州卫视.png",贵州卫视
-https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 #EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/海南卫视.png",海南卫视
-http://58.220.219.14:9901/tsfile/live/0120_2.m3u8?key=txiptv&url=tvzb.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/西藏卫视.png",西藏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/新疆卫视.png",新疆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/陕西卫视.png",陕西卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+
 #EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.eu.org/logo/江苏城市.png",江苏城市
 http://58.220.219.14:9901/tsfile/live/0120_3.m3u8?key=txiptv&url=tvzb.com
-#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.eu.org/logo/江苏综艺.png",江苏综艺
-http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&url=tvzb.com
-#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/西藏卫视.png",西藏卫视
-http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv&url=tvzb.com
-#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/新疆卫视.png",新疆卫视
-http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv&url=tvzb.com
-#EXTINF:-1 group-title="卫视IPV4" tvg-logo="https://epg.112114.eu.org/logo/陕西卫视.png",陕西卫视
-http://58.220.219.14:9901/tsfile/live/0120_7.m3u8?key=txiptv&url=tvzb.com
-
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/CHC高清电影.png",CHC高清电影
-http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/CHC家庭影院.png",CHC家庭影院
-http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/CHC动作电影.png",CHC动作电影
-http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/上视东方影视.png",东方影视
-http://maomao.kandiantv.cn/m3u8.php?/migu/617290047
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/IPTV经典电影.png",经典电影
-http://maomao.kandiantv.cn/m3u8.php?/migu/625703337
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/第一剧场.png",第一剧场
-https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/都市剧场.png",都市剧场
-https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/动漫秀场.png",动漫秀场
-https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/风云剧场.png",风云剧场
-https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/怀旧剧场.png",怀旧剧场
-https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/求索纪录.png",求索纪录
-https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-#EXTINF:-1 group-title="影视" tvg-logo="https://epg.112114.eu.org/logo/游戏风云.png",游戏风云
-https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.eu.org/logo/江苏影视.png",江苏影视
+https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.eu.org/logo/江苏影视.png",江苏影视
+https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+#EXTINF:-1 group-title="江苏" tvg-logo="https://epg.112114.eu.org/logo/江苏影视.png",江苏影视
+https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
